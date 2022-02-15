@@ -6,8 +6,13 @@ description: Part 5, Chapter 1 (Galaxies) of the course lecture notes. The lectu
   Paul Schechter's handwritten notes in producing them. The figures were produced
   by Caitlin Millard during June-August 2004. Used with permission. As of the date
   of publication, only lecture notes for sessions 1 through 11 were available.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-902-astrophysics-ii-fall-2004/29eeaa289e7f7472fde0837f4dd113f1_lec5.pdf
+file: /media/courses/8-902-astrophysics-ii-fall-2004/29eeaa289e7f7472fde0837f4dd113f1_lec5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec5.pdf
 uid: 29eeaa28-9e7f-7472-fde0-837f4dd113f1

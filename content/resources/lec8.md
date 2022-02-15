@@ -6,8 +6,13 @@ description: Part 8, Chapter 1 (Galaxies) of the course lecture notes. The lectu
   Paul Schechter's handwritten notes in producing them. The figures were produced
   by Caitlin Millard during June-August 2004. Used with permission. As of the date
   of publication, only lecture notes for sessions 1 through 11 were available.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-902-astrophysics-ii-fall-2004/d377ac0b5697e4368055d9e2508d3ffa_lec8.pdf
+file: /media/courses/8-902-astrophysics-ii-fall-2004/d377ac0b5697e4368055d9e2508d3ffa_lec8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec8.pdf
 uid: d377ac0b-5697-e436-8055-d9e2508d3ffa
