@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ab19bbb3-c3b1-7a1a-e845-bc698eaf6b0f
 resourcetype: Document
 title: everything.pdf
 uid: 1e8f2201-3fee-817f-c6ae-e8ca46ca843d

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ab19bbb3-c3b1-7a1a-e845-bc698eaf6b0f
 resourcetype: Document
 title: rungekutta.pdf
 uid: ba59c6e8-7386-faae-3e29-dff23c89ed7f
