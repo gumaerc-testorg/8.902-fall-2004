@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 71275da2-27cc-624e-d06f-7bd0fe95ec01
 ---
@@ -33,7 +34,7 @@ L1
 Introduction: What is a Galaxy?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec1))
+({{< resource_link 591cb599-63a0-0660-7bc9-611881a17978 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ L2
 How Do You Build a Galaxy?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec2))
+({{< resource_link 592be4b9-c591-af93-c2f6-949c3998866e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ L3
 How are Galaxies Described?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec3))
+({{< resource_link 571eba79-6931-21c3-e48b-5aefb2f8f3bc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +70,7 @@ L4
 Gravitational Potentials: General Results
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{< resource_link a640fdbf-6840-889b-97a7-c3680cb2e4f1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ L5
 Interesting and Special Cases
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{< resource_link 29eeaa28-9e7f-7472-fde0-837f4dd113f1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ L6
 Orbits in Spherical Potentials and Integrals
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{< resource_link 95988dec-fd83-a165-2039-4ebf1fa01998 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +108,7 @@ Orbits in Axisymmetric Potentials
 Epicyclic Approximation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec7))
+({{< resource_link d3e3b3c1-cf35-4bd2-7a2d-006cd0d0bbe0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,9 +122,9 @@ Equilibria of Stellar Systems
 Boltzmann Equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec8))  
+({{< resource_link d377ac0b-5697-e436-8055-d9e2508d3ffa "PDF" >}})  
   
-([PDF]({{< baseurl >}}/resources/lec9))
+({{< resource_link 4657bd3b-aac7-db63-8f8a-b7d09b9ce0d7 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ L9
 Jeans' Equations in Spherical Coordinates
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec10))
+({{< resource_link f79268ad-526f-5b4a-ef91-f6343bf86bd5 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +150,7 @@ Jeans' Equations Applied
 Jeans' Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec11))
+({{< resource_link 15bf4ed2-d8b1-247f-c667-162259f251d0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ L11
 Stability: Jeans Mass and Spiral Structure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec12))
+({{< resource_link edc32af0-ab17-7def-26de-11ea73d6844f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
