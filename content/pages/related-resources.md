@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides links for to external web sites on astronomy and
+  astrophysics.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: f03329c6-d683-2f08-7415-3a2759447339
 ---

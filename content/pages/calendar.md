@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and exams.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 0e970194-618e-a606-d850-fe9b02118400
 ---
