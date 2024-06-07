@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains a sample program for integrating the second-order
   differential equation.
 file: /courses/8-902-astrophysics-ii-fall-2004/ba59c6e87386faae3e29dff23c89ed7f_rungekutta.pdf
+file_size: 13483
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
