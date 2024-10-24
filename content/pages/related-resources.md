@@ -2,14 +2,13 @@
 content_type: page
 description: This section provides links for to external web sites on astronomy and
   astrophysics.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: f03329c6-d683-2f08-7415-3a2759447339
 ---
-
-Astronomy and Astrophysics on the Web
--------------------------------------
+## Astronomy and Astrophysics on the Web
 
 The following links will take you to Web sites which are especially useful, informative, and entertaining.
 
@@ -17,7 +16,7 @@ The following links will take you to Web sites which are especially useful, info
 
 [Astronomy Picture of the Day Index](http://antwrp.gsfc.nasa.gov/apod/lib/aptree.html)
 
-[Hubble Space Telescope Images](https://hubblesite.org/images/gallery)
+[Hubble Space Telescope Images](https://hubblesite.org/mission-and-telescope/the-telescope)
 
 [Color Photographs from the Anglo-Australian Observatory](http://newt.phys.unsw.edu.au/~mgb/astroimages.html)
 
@@ -27,7 +26,7 @@ The following links will take you to Web sites which are especially useful, info
 
 [The Milky Way Collides with the Andromeda Galaxy 3 Gyr from Now (MPEG Movies)](http://www.nasa.gov/mission_pages/hubble/science/milky-way-collide.html)
 
-_Very Useful but Less Entertaining_
+*Very Useful but Less Entertaining*
 
 [Preprint Archive ("astro-ph")](http://de.arxiv.org/archive/astro-ph/)
 
@@ -37,8 +36,6 @@ _Very Useful but Less Entertaining_
 
 [Astronomical Coordinate Systems](http://www.seds.org/~spider/spider/ScholarX/coords.html)
 
-_Less Useful but More Entertaining_
+*Less Useful but More Entertaining*
 
 [MIThenge](http://web.mit.edu/planning/www/mithenge.html)
-
-[The Milky Way at 7 Different Wavelengths (Free Poster!)](http://mwmw.gsfc.nasa.gov/)
