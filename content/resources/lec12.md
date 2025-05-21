@@ -6,7 +6,7 @@ description: Part 12, Chapter 1 (Galaxies) of the course lecture notes. The lect
   Paul Schechter's handwritten notes in producing them. The figures were produced
   by Caitlin Millard during June-August 2004. Used with permission. As of the date
   of publication, only lecture notes for sessions 1 through 11 were available.
-file: /ol-ocw-studio-app/courses/8-902-astrophysics-ii-fall-2004/edc32af0ab177def26de11ea73d6844f_lec12.pdf
+file: /courses/8-902-astrophysics-ii-fall-2004/edc32af0ab177def26de11ea73d6844f_lec12.pdf
 file_size: 146227
 file_type: application/pdf
 learning_resource_types:
