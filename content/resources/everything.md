@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains all formulae for gravitational lensing in one page.
-file: /ol-ocw-studio-app/courses/8-902-astrophysics-ii-fall-2004/1e8f22013fee817fc6aee8ca46ca843d_everything.pdf
+file: /courses/8-902-astrophysics-ii-fall-2004/1e8f22013fee817fc6aee8ca46ca843d_everything.pdf
 file_size: 47543
 file_type: application/pdf
 learning_resource_types: []
