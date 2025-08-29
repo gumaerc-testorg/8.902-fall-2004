@@ -28,8 +28,6 @@ The following links will take you to Web sites which are especially useful, info
 
 *Very Useful but Less Entertaining*
 
-[Preprint Archive ("astro-ph")](http://de.arxiv.org/archive/astro-ph/)
-
 [NASA Astrophysics Data System ABSTRACT SERVICE](http://adsabs.harvard.edu/abstract_service.html)
 
 [Prof. Bill Press' Introduction to Astrophysics Course at Harvard U](http://www.lanl.gov/DLDSTP/ay45/ay45top.html)
